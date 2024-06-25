@@ -1,7 +1,7 @@
 {   
     "bot1": {
         "source": "https://github.com/actchanthar/BotClusters.git",
-        "branch": "your-branch-name",
+        "branch": "BotClusters",
         "env": {
             "TOKEN": "",
             "TOKEN2": ""
