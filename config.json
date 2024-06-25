@@ -1,6 +1,6 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
+        "source": "https://github.com/actchanthar/BotClusters.git",
         "branch": "your-branch-name",
         "env": {
             "TOKEN": "",
